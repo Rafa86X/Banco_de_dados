@@ -1,4 +1,4 @@
-/* Lógico: */
+/* Lógico:  */
 
 CREATE TABLE Vendedor (
     Cod_vendedor smallint PRIMARY KEY,
